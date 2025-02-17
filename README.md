@@ -7,6 +7,7 @@ Below is a sample, highly detailed and engaging README.md file that you can use 
 
 ![Dino_Crypto_Algorithm](imgs/Dino_Crypto_Algorithm.png)
 
+
 Welcome to **Dino_Crypto_Algorithm** – a groundbreaking cryptographic solution that takes data security to the next level. By combining a proprietary recursive encryption mechanism with the robust AES-128 standard, this project ensures that your sensitive information remains completely protected—even if an encrypted key is intercepted.
 
 ---
