@@ -1,0 +1,28 @@
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/obj/Debug/net9.0/Dino_Crypto_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/obj/Debug/net9.0/Dino_Crypto_Algorithm.AssemblyInfoInputs.cache
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/obj/Debug/net9.0/Dino_Crypto_Algorithm.AssemblyInfo.cs
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/obj/Debug/net9.0/Dino_Crypto_Algorithm.csproj.CoreCompileInputs.cache
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/bin/Debug/net9.0/Dino_Crypto_Algorithm
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/bin/Debug/net9.0/Dino_Crypto_Algorithm.deps.json
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/bin/Debug/net9.0/Dino_Crypto_Algorithm.runtimeconfig.json
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/bin/Debug/net9.0/Dino_Crypto_Algorithm.dll
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/bin/Debug/net9.0/Dino_Crypto_Algorithm.pdb
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/obj/Debug/net9.0/Dino_Crypto_Algorithm.dll
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/obj/Debug/net9.0/refint/Dino_Crypto_Algorithm.dll
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/obj/Debug/net9.0/Dino_Crypto_Algorithm.pdb
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/obj/Debug/net9.0/Dino_Crypto_Algorithm.genruntimeconfig.cache
+/home/Tyler/Desktop/Dino_Crypto_Algorithm/obj/Debug/net9.0/ref/Dino_Crypto_Algorithm.dll
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\bin\Debug\net9.0\Dino_Crypto_Algorithm.exe
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\bin\Debug\net9.0\Dino_Crypto_Algorithm.deps.json
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\bin\Debug\net9.0\Dino_Crypto_Algorithm.runtimeconfig.json
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\bin\Debug\net9.0\Dino_Crypto_Algorithm.dll
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\bin\Debug\net9.0\Dino_Crypto_Algorithm.pdb
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\obj\Debug\net9.0\Dino_Crypto_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\obj\Debug\net9.0\Dino_Crypto_Algorithm.AssemblyInfoInputs.cache
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\obj\Debug\net9.0\Dino_Crypto_Algorithm.AssemblyInfo.cs
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\obj\Debug\net9.0\Dino_Crypto_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\obj\Debug\net9.0\Dino_Crypto_Algorithm.dll
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\obj\Debug\net9.0\refint\Dino_Crypto_Algorithm.dll
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\obj\Debug\net9.0\Dino_Crypto_Algorithm.pdb
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\obj\Debug\net9.0\Dino_Crypto_Algorithm.genruntimeconfig.cache
+C:\Users\The Narrator\Desktop\Dino_Crypto_Algorithm\obj\Debug\net9.0\ref\Dino_Crypto_Algorithm.dll

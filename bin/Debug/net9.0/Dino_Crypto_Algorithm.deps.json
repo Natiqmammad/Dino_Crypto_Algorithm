@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Dino_Crypto_Algorithm/1.0.0": {
+        "runtime": {
+          "Dino_Crypto_Algorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dino_Crypto_Algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
